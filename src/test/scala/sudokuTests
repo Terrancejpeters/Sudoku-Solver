@@ -1,0 +1,5 @@
+//import hw.whateverYourCurrentProjectIs, .AnyspecificObjects
+
+class Test extends org.scalatest.FunSuite {
+	
+}
